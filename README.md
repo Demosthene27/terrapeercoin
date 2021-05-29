@@ -5,8 +5,8 @@
 
 ### TerraPeercoin Resources
 * Client and Source:
-[Client Binaries](https://github.com/terrapeercoin/terrapeercoin/releases),
-[Source Code](https://github.com/terrapeercoin/terrapeercoin)
+[Client Binaries](https://github.com/Demosthene27/terrapeercoin/releases),
+[Source Code](https://github.com/Demosthene27/terrapeercoin)
 
 Testing
 -------
